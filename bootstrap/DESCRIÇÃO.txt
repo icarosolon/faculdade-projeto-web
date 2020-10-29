@@ -1,0 +1,4 @@
+O projeto será um site onde as pessoas cadastradas poderão assistir video-aulas e realizar atividades com o objetivo de receber o seu certificado ao final do curso.
+
+ProCode = À favor do código.
+

@@ -1,0 +1,15 @@
+
+
+
+
+NO MODELO CONCEITUAL - 	//Adicionar certificados como atributo da tabela turma
+			//Adicionar tabela ligada a tabela curso chamada de "AULAS DO CURSO"
+			Adicionar mais itens na tabela curso
+			Adicionar atributo "conteudo" e "duracao" a entidade Aula no modelo conceitual
+
+			
+
+NO WEBSITE - 	
+		
+		
+		 
